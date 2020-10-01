@@ -1,4 +1,4 @@
-## SHAAAAAAAAAAAAA
+## SHAAAAAAAAAAAAA This a readme file for the repository with multiple changes over the years by 2 contributors and this readme file also explains the reason and whats is in this repository.
 
 **Note:** This project, and much of its documentation, was written in the fall of 2014, when SHA-1 was still very common and the transition was only beginning.
 
